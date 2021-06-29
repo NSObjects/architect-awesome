@@ -10,15 +10,12 @@
 <hr/>
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-[![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg?style=flat&label=Star)](https://github.com/xingshaocheng/architect-awesome/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xingshaocheng/architect-awesome.svg?style=flat&label=Fork)](https://github.com/xingshaocheng/architect-awesome/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/xingshaocheng/architect-awesome.svg?style=flat&label=Watch)](https://github.com/xingshaocheng/architect-awesome/watchers)
-[![GitHub followers](https://img.shields.io/github/followers/xingshaocheng.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/xingshaocheng)
+
 
 - [数据结构](https://github.com/NSObjects/architect-awesome/blob/master/README.md#数据结构)
   - [x] [队列](https://github.com/NSObjects/architect-awesome/blob/master/README.md#队列)
   - [ ] [集合](https://github.com/NSObjects/architect-awesome/blob/master/README.md#集合)
-  - [ ] [链表、数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#链表数组)
+  - [x] [链表、数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#链表数组)
   - [ ] [字典、关联数组](https://github.com/NSObjects/architect-awesome/blob/master/README.md#字典关联数组)
   - [x] [栈](https://github.com/NSObjects/architect-awesome/blob/master/README.md#栈)
   - [ ] [树](https://github.com/NSObjects/architect-awesome/blob/master/README.md#树)
